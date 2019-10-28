@@ -10,7 +10,7 @@ box-sizing : border-box; 가 없으면 width와 height는
 	display: inline-block;
 	width: 50px;
 	height: 50px;
-	border: 10px solid black;
+	border: 1px solid black;
 } */
 /* box-sizing : border-box;가 있다면 
 width와 height는 박스 크기의 가로와 세로에 해당한다.
